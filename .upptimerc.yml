@@ -4,15 +4,15 @@ repo: upptime
 
 sites:
   - name: Google
-    url: https://www.google.com
+    url: https://www.google.com/
   - name: Tochisaurio
-    url: https://tochisaurio.com.ar
+    url: https://tochisaurio.com.ar/
   - name: Luxis Web
-    url: https://lw.tochisaurio.com.ar
+    url: https://lw.tochisaurio.com.ar/
   - name: Luxis Srv
-    url: https://ls.tochisaurio.com.ar
+    url: https://ls.tochisaurio.com.ar/
   - name: No Me Olvides
-    url: https://www.nomeolvidescrochet.com.ar
+    url: https://nomeolvidescrochet.com.ar/
 
 assignees:
   - tochimoreno
