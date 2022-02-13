@@ -3,16 +3,18 @@ owner: tochimoreno
 repo: upptime
 
 sites:
-  - name: Google
-    url: https://www.google.com/
-  - name: Tochisaurio
-    url: https://tochisaurio.com.ar/
   - name: Luxis Web
-    url: https://lw.tochisaurio.com.ar/
+    url: https://lw.tochisaurio.com.ar
   - name: Luxis Srv
-    url: https://ls.tochisaurio.com.ar/
+    url: https://ls.tochisaurio.com.ar
   - name: No Me Olvides
-    url: https://nomeolvidescrochet.com.ar/
+    url: https://nomeolvidescrochet.com.ar
+  - name: TochiMoreno
+    url: https://tochimoreno.com.ar
+  - name: Tochi
+    url: https://tochi.com.ar
+  - name: Tochisaurio
+    url: https://tochisaurio.com.ar
 
 assignees:
   - tochimoreno
@@ -24,8 +26,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Monitor de estado de paginas de Tochi."
+  introMessage: ---
   navbar:
     - title: Status
       href: /
