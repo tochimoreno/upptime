@@ -1,21 +1,22 @@
 [
   {
     "name": "Luxis Web",
-    "url": "https://lw.tochisaurio.com.ar",
+    "url": "https://lw.tochisaurio.com.ar/",
     "icon": "https://favicons.githubusercontent.com/lw.tochisaurio.com.ar",
     "slug": "luxis-web",
     "status": "down",
-    "uptime": "73.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "73.18%",
-    "uptimeMonth": "73.18%",
-    "uptimeYear": "73.18%",
+    "uptime": "0.00%",
+    "uptimeDay": "8.49%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-02-15": 0,
       "2022-02-13": 762
     }
   },
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 312,
-    "timeWeek": 485,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "time": 466,
+    "timeDay": 382,
+    "timeWeek": 466,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2369,
-    "timeDay": 2280,
-    "timeWeek": 2369,
-    "timeMonth": 2369,
-    "timeYear": 2369,
+    "time": 2292,
+    "timeDay": 2185,
+    "timeWeek": 2292,
+    "timeMonth": 2292,
+    "timeYear": 2292,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2554,
-    "timeDay": 2061,
-    "timeWeek": 2554,
-    "timeMonth": 2554,
-    "timeYear": 2554,
+    "time": 2196,
+    "timeDay": 1793,
+    "timeWeek": 2196,
+    "timeMonth": 2196,
+    "timeYear": 2196,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1526,
-    "timeDay": 511,
-    "timeWeek": 1526,
-    "timeMonth": 1526,
-    "timeYear": 1526,
+    "time": 1107,
+    "timeDay": 489,
+    "timeWeek": 1107,
+    "timeMonth": 1107,
+    "timeYear": 1107,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 256,
-    "timeWeek": 304,
-    "timeMonth": 304,
-    "timeYear": 304,
+    "time": 282,
+    "timeDay": 237,
+    "timeWeek": 282,
+    "timeMonth": 282,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   }
 ]
