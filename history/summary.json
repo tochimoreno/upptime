@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1126,
-    "timeDay": 1461,
-    "timeWeek": 1971,
-    "timeMonth": 1581,
-    "timeYear": 1132,
+    "timeDay": 1449,
+    "timeWeek": 1954,
+    "timeMonth": 1573,
+    "timeYear": 1134,
     "dailyMinutesDown": {
       "2022-10-12": 59,
       "2022-06-22": 39,
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochimoreno.com.ar.ico",
     "slug": "tochi-moreno",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.97%",
     "time": 1769,
-    "timeDay": 1768,
-    "timeWeek": 2430,
-    "timeMonth": 1906,
-    "timeYear": 1706,
+    "timeDay": 1675,
+    "timeWeek": 1696,
+    "timeMonth": 1908,
+    "timeYear": 1704,
     "dailyMinutesDown": {
       "2022-11-16": 19,
       "2022-11-03": 563,
@@ -57,8 +57,7 @@
       "2022-04-09": 20,
       "2022-04-07": 16,
       "2022-04-06": 42,
-      "2022-03-28": 23,
-      "2022-03-23": 24
+      "2022-03-28": 23
     }
   },
   {
@@ -67,15 +66,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochi.com.ar.ico",
     "slug": "tochi",
     "status": "up",
-    "uptime": "88.33%",
+    "uptime": "88.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.70%",
+    "uptimeYear": "89.97%",
     "time": 395,
-    "timeDay": 432,
-    "timeWeek": 398,
-    "timeMonth": 432,
+    "timeDay": 429,
+    "timeWeek": 393,
+    "timeMonth": 430,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2022-06-23": 46,
@@ -114,8 +113,7 @@
       "2022-03-27": 1440,
       "2022-03-26": 1440,
       "2022-03-25": 1440,
-      "2022-03-24": 1440,
-      "2022-03-23": 1440
+      "2022-03-24": 1440
     }
   }
 ]
