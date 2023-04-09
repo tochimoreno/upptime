@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1135,
-    "timeDay": 1160,
-    "timeWeek": 1211,
-    "timeMonth": 1511,
-    "timeYear": 1154,
+    "timeDay": 1394,
+    "timeWeek": 1220,
+    "timeMonth": 1514,
+    "timeYear": 1156,
     "dailyMinutesDown": {
       "2022-10-12": 59,
       "2022-06-22": 39,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.99%",
-    "time": 1761,
-    "timeDay": 1373,
-    "timeWeek": 1471,
-    "timeMonth": 1799,
-    "timeYear": 1682,
+    "time": 1760,
+    "timeDay": 1494,
+    "timeWeek": 1468,
+    "timeMonth": 1809,
+    "timeYear": 1678,
     "dailyMinutesDown": {
       "2022-11-16": 19,
       "2022-11-03": 563,
@@ -53,8 +53,7 @@
       "2022-04-15": 1440,
       "2022-04-14": 1291,
       "2022-04-13": 19,
-      "2022-04-12": 20,
-      "2022-04-09": 20
+      "2022-04-12": 20
     }
   },
   {
@@ -63,15 +62,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochi.com.ar.ico",
     "slug": "tochi",
     "status": "up",
-    "uptime": "88.81%",
+    "uptime": "88.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.36%",
-    "time": 393,
-    "timeDay": 273,
-    "timeWeek": 249,
-    "timeMonth": 389,
+    "uptimeYear": "94.63%",
+    "time": 392,
+    "timeDay": 354,
+    "timeWeek": 274,
+    "timeMonth": 392,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2022-06-23": 46,
@@ -93,8 +92,7 @@
       "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
-      "2022-04-10": 1440,
-      "2022-04-09": 1440
+      "2022-04-10": 1440
     }
   }
 ]
