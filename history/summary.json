@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1136,
-    "timeDay": 1269,
-    "timeWeek": 1259,
-    "timeMonth": 1507,
-    "timeYear": 1158,
+    "timeDay": 905,
+    "timeWeek": 1250,
+    "timeMonth": 1492,
+    "timeYear": 1157,
     "dailyMinutesDown": {
       "2022-10-12": 59,
       "2022-06-22": 39,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochimoreno.com.ar.ico",
     "slug": "tochi-moreno",
     "status": "down",
-    "uptime": "97.36%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.99%",
+    "uptime": "97.27%",
+    "uptimeDay": "60.39%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "96.88%",
     "time": 1760,
-    "timeDay": 1650,
-    "timeWeek": 1499,
-    "timeMonth": 1806,
+    "timeDay": 0,
+    "timeWeek": 1525,
+    "timeMonth": 1815,
     "timeYear": 1673,
     "dailyMinutesDown": {
-      "2023-04-11": 0,
+      "2023-04-12": 69,
+      "2023-04-11": 501,
       "2022-11-16": 19,
       "2022-11-03": 563,
       "2022-11-02": 1440,
@@ -53,8 +54,7 @@
       "2022-04-16": 1440,
       "2022-04-15": 1440,
       "2022-04-14": 1291,
-      "2022-04-13": 19,
-      "2022-04-12": 20
+      "2022-04-13": 19
     }
   },
   {
@@ -63,15 +63,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochi.com.ar.ico",
     "slug": "tochi",
     "status": "up",
-    "uptime": "88.90%",
+    "uptime": "88.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.34%",
-    "time": 392,
-    "timeDay": 202,
-    "timeWeek": 278,
-    "timeMonth": 382,
+    "uptimeYear": "95.45%",
+    "time": 391,
+    "timeDay": 297,
+    "timeWeek": 284,
+    "timeMonth": 380,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2022-06-23": 46,
@@ -90,8 +90,7 @@
       "2022-04-16": 1440,
       "2022-04-15": 1440,
       "2022-04-14": 1440,
-      "2022-04-13": 1440,
-      "2022-04-12": 1440
+      "2022-04-13": 1440
     }
   }
 ]
