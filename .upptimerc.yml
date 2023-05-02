@@ -9,6 +9,8 @@ sites:
     url: https://tochimoreno.com.ar
   - name: Tochi
     url: https://tochi.com.ar
+  - name: TochiSaurio
+    url: https://tochisaurio.com.ar
 
 assignees:
   - tochimoreno
