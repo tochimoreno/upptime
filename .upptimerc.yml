@@ -5,6 +5,10 @@ repo: upptime
 sites:
   - name: Luxis
     url: https://luxis.com.ar/
+  - name: Odoo Luxis
+    url: https://erp.luxis.com.ar/
+  - name: Nube Luxis
+    url: https://ls.luxis.com.ar/
   - name: TochiMoreno
     url: https://tochimoreno.com.ar
   - name: Tochi
