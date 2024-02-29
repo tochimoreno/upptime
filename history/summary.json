@@ -22,19 +22,19 @@
     "url": "https://erp.luxis.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/erp.luxis.com.ar.ico",
     "slug": "odoo-luxis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 473,
-    "timeWeek": 502,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 509,
+    "timeDay": 569,
+    "timeWeek": 531,
+    "timeMonth": 509,
+    "timeYear": 509,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 13
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://ls.luxis.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/ls.luxis.com.ar.ico",
     "slug": "nube-luxis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 420,
-    "timeWeek": 523,
-    "timeMonth": 512,
-    "timeYear": 512,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 518,
+    "timeDay": 480,
+    "timeWeek": 531,
+    "timeMonth": 518,
+    "timeYear": 518,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 13
     }
   },
   {
