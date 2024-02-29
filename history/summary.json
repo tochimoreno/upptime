@@ -4,18 +4,20 @@
     "url": "https://luxis.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/luxis.com.ar.ico",
     "slug": "luxis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1413,
+    "time": 1415,
     "timeDay": 1204,
     "timeWeek": 1241,
     "timeMonth": 1132,
     "timeYear": 1440,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-29": 3
+    }
   },
   {
     "name": "Odoo Luxis",
@@ -58,10 +60,10 @@
     "url": "https://tochimoreno.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/tochimoreno.com.ar.ico",
     "slug": "tochi-moreno",
-    "status": "up",
+    "status": "down",
     "uptime": "90.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "84.40%",
     "time": 2066,
@@ -70,6 +72,7 @@
     "timeMonth": 2379,
     "timeYear": 2185,
     "dailyMinutesDown": {
+      "2024-02-29": 1,
       "2023-06-07": 844,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
