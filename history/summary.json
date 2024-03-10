@@ -22,9 +22,9 @@
     "url": "https://erp.luxis.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/erp.luxis.com.ar.ico",
     "slug": "odoo-luxis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 314,
     "timeMonth": 441,
     "timeYear": 441,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 0
+    }
   },
   {
     "name": "Nube Luxis",
@@ -59,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochimoreno.com.ar.ico",
     "slug": "tochi-moreno",
     "status": "up",
-    "uptime": "90.99%",
+    "uptime": "91.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
