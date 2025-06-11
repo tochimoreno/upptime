@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.48%",
-    "time": 1033,
-    "timeDay": 1231,
-    "timeWeek": 986,
-    "timeMonth": 1011,
+    "uptimeYear": "93.75%",
+    "time": 1032,
+    "timeDay": 1090,
+    "timeWeek": 962,
+    "timeMonth": 1020,
     "timeYear": 1002,
     "dailyMinutesDown": {
       "2024-07-23": 911,
@@ -39,8 +39,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -49,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/erp.luxis.com.ar.ico",
     "slug": "odoo-luxis",
     "status": "up",
-    "uptime": "88.53%",
+    "uptime": "88.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.60%",
+    "uptimeYear": "87.87%",
     "time": 416,
-    "timeDay": 638,
-    "timeWeek": 429,
-    "timeMonth": 409,
-    "timeYear": 422,
+    "timeDay": 645,
+    "timeWeek": 432,
+    "timeMonth": 420,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2024-08-22": 683,
       "2024-08-21": 1440,
@@ -106,8 +105,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -116,15 +114,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ls.luxis.com.ar.ico",
     "slug": "nube-luxis",
     "status": "up",
-    "uptime": "93.63%",
+    "uptime": "93.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.72%",
+    "uptimeYear": "91.99%",
     "time": 484,
-    "timeDay": 659,
-    "timeWeek": 448,
-    "timeMonth": 464,
+    "timeDay": 698,
+    "timeWeek": 455,
+    "timeMonth": 474,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2024-08-06": 295,
@@ -157,8 +155,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -167,16 +164,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochimoreno.com.ar.ico",
     "slug": "tochi-moreno",
     "status": "up",
-    "uptime": "91.58%",
+    "uptime": "91.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.68%",
-    "time": 2491,
-    "timeDay": 2995,
-    "timeWeek": 2575,
-    "timeMonth": 2609,
-    "timeYear": 2605,
+    "time": 2493,
+    "timeDay": 3096,
+    "timeWeek": 2630,
+    "timeMonth": 2623,
+    "timeYear": 2607,
     "dailyMinutesDown": {
       "2025-04-01": 1296,
       "2025-03-31": 1440,
@@ -223,15 +220,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochi.com.ar.ico",
     "slug": "tochi",
     "status": "up",
-    "uptime": "92.57%",
+    "uptime": "92.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.96%",
+    "uptimeYear": "94.23%",
     "time": 412,
-    "timeDay": 517,
-    "timeWeek": 342,
-    "timeMonth": 342,
+    "timeDay": 478,
+    "timeWeek": 344,
+    "timeMonth": 350,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2024-07-25": 34,
@@ -256,8 +253,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -266,7 +262,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochisaurio.com.ar.ico",
     "slug": "tochi-saurio",
     "status": "down",
-    "uptime": "80.41%",
+    "uptime": "80.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -277,7 +273,8 @@
     "timeMonth": 0,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-06-10": 105,
+      "2025-06-11": 104,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -401,8 +398,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
-      "2024-06-12": 1440,
-      "2024-06-11": 1440
+      "2024-06-12": 1440
     }
   },
   {
@@ -411,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/igualdadyprogreso.org.ico",
     "slug": "iy-p-446",
     "status": "down",
-    "uptime": "70.55%",
+    "uptime": "70.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.72%",
-    "time": 257,
+    "uptimeYear": "58.45%",
+    "time": 258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 269,
     "dailyMinutesDown": {
-      "2025-06-10": 105,
+      "2025-06-11": 104,
+      "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
