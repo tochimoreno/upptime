@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.60%",
-    "time": 1032,
-    "timeDay": 1160,
-    "timeWeek": 1027,
-    "timeMonth": 1028,
-    "timeYear": 1002,
+    "uptimeYear": "95.67%",
+    "time": 1033,
+    "timeDay": 1212,
+    "timeWeek": 1044,
+    "timeMonth": 1040,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2024-07-23": 911,
       "2024-07-22": 1440,
@@ -32,8 +32,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -46,12 +45,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.72%",
-    "time": 414,
-    "timeDay": 462,
-    "timeWeek": 360,
-    "timeMonth": 405,
-    "timeYear": 421,
+    "uptimeYear": "89.79%",
+    "time": 415,
+    "timeDay": 858,
+    "timeWeek": 391,
+    "timeMonth": 423,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2024-08-22": 683,
       "2024-08-21": 1440,
@@ -92,8 +91,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -106,11 +104,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.84%",
+    "uptimeYear": "93.91%",
     "time": 483,
-    "timeDay": 619,
-    "timeWeek": 498,
-    "timeMonth": 481,
+    "timeDay": 408,
+    "timeWeek": 456,
+    "timeMonth": 482,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2024-08-06": 295,
@@ -136,8 +134,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -146,16 +143,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochimoreno.com.ar.ico",
     "slug": "tochi-moreno",
     "status": "up",
-    "uptime": "91.63%",
+    "uptime": "91.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.68%",
-    "time": 2494,
-    "timeDay": 2597,
-    "timeWeek": 2500,
-    "timeMonth": 2586,
-    "timeYear": 2611,
+    "time": 2493,
+    "timeDay": 2267,
+    "timeWeek": 2382,
+    "timeMonth": 2583,
+    "timeYear": 2612,
     "dailyMinutesDown": {
       "2025-04-01": 1296,
       "2025-03-31": 1440,
@@ -206,12 +203,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.08%",
+    "uptimeYear": "96.15%",
     "time": 410,
-    "timeDay": 448,
-    "timeWeek": 314,
+    "timeDay": 240,
+    "timeWeek": 280,
     "timeMonth": 334,
-    "timeYear": 420,
+    "timeYear": 419,
     "dailyMinutesDown": {
       "2024-07-25": 34,
       "2024-07-10": 22,
@@ -228,8 +225,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -238,15 +234,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tochisaurio.com.ar.ico",
     "slug": "tochi-saurio",
     "status": "up",
-    "uptime": "79.63%",
-    "uptimeDay": "20.59%",
-    "uptimeWeek": "2.94%",
+    "uptime": "79.64%",
+    "uptimeDay": "47.12%",
+    "uptimeWeek": "6.73%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.80%",
-    "time": 297,
-    "timeDay": 328,
-    "timeWeek": 328,
-    "timeMonth": 328,
+    "uptimeYear": "66.88%",
+    "time": 296,
+    "timeDay": 279,
+    "timeWeek": 279,
+    "timeMonth": 279,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2025-06-17": 865,
@@ -373,8 +369,7 @@
       "2024-06-22": 1440,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
-      "2024-06-19": 1440,
-      "2024-06-18": 1440
+      "2024-06-19": 1440
     }
   },
   {
@@ -383,16 +378,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/igualdadyprogreso.org.ico",
     "slug": "iy-p-446",
     "status": "up",
-    "uptime": "69.49%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "uptime": "69.51%",
+    "uptimeDay": "26.55%",
+    "uptimeWeek": "3.79%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "56.60%",
-    "time": 257,
-    "timeDay": 355,
-    "timeWeek": 355,
-    "timeMonth": 355,
-    "timeYear": 269,
+    "time": 258,
+    "timeDay": 372,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2025-06-17": 1161,
       "2025-06-16": 1440,
