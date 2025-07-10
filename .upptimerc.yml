@@ -7,12 +7,10 @@ sites:
     url: https://luxis.com.ar/
   - name: Odoo Luxis
     url: https://erp.luxis.com.ar/
-  - name: Nube Luxis
-    url: https://ls.luxis.com.ar/
   - name: TochiMoreno
     url: https://tochimoreno.com.ar
   - name: Tochi
-    url: https://tochi.com.ar
+    url: https://www.tochi.com.ar
   - name: TochiSaurio
     url: https://tochisaurio.com.ar
   - name: IyP 446
