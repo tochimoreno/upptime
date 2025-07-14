@@ -1,7 +1,7 @@
 url: https://erp.luxis.com.ar/
-status: up
-code: 200
-responseTime: 1551
-lastUpdated: 2025-07-14T13:50:51.652Z
+status: down
+code: 500
+responseTime: 632
+lastUpdated: 2025-07-14T14:54:13.771Z
 startTime: 2024-02-18T20:36:37.227Z
 generator: Upptime <https://github.com/upptime/upptime>
