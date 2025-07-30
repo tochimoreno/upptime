@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/erp.luxis.com.ar.ico",
     "slug": "odoo-luxis",
     "status": "up",
-    "uptime": "89.13%",
+    "uptime": "89.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.59%",
-    "uptimeYear": "96.08%",
+    "uptimeYear": "96.10%",
     "time": 415,
     "timeDay": 610,
     "timeWeek": 530,
@@ -53,8 +53,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
-      "2024-07-31": 1440,
-      "2024-07-30": 1440
+      "2024-07-31": 1440
     }
   },
   {
