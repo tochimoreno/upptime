@@ -5,16 +5,16 @@ repo: upptime
 sites:
   - name: Luxis
     url: https://luxis.com.ar/
-  - name: Odoo Luxis
-    url: https://erp.luxis.com.ar/
+  - name: Luxis Odoo
+    url: http://erp.luxis.com.ar:10018/
+  - name: Luxis Nextcloud
+    url: https://ls.luxis.com.ar/
   - name: TochiMoreno
     url: https://tochimoreno.com.ar
   - name: Tochi
     url: https://www.tochi.com.ar
   - name: TochiSaurio
     url: https://tochisaurio.com.ar
-  - name: IyP 446
-    url: https://igualdadyprogreso.org
 
 assignees:
   - tochimoreno
