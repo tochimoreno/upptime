@@ -67,9 +67,9 @@
     "slug": "tochi-moreno",
     "status": "up",
     "uptime": "89.36%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.22%",
+    "uptimeDay": "8.05%",
+    "uptimeWeek": "1.15%",
+    "uptimeMonth": "40.49%",
     "uptimeYear": "79.53%",
     "time": 2486,
     "timeDay": 1512,
@@ -209,7 +209,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.94%",
+    "uptimeYear": "78.96%",
     "time": 301,
     "timeDay": 247,
     "timeWeek": 324,
@@ -293,8 +293,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
-      "2024-11-03": 1440,
-      "2024-11-02": 1440
+      "2024-11-03": 1440
     }
   }
 ]
