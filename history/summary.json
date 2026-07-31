@@ -4,10 +4,10 @@
     "url": "https://luxis.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/luxis.com.ar.ico",
     "slug": "luxis",
-    "status": "up",
+    "status": "down",
     "uptime": "96.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.85%",
     "time": 873,
@@ -45,7 +45,8 @@
       "2025-11-04": 1440,
       "2025-11-03": 1440,
       "2025-11-02": 251,
-      "2026-04-30": 94
+      "2026-04-30": 94,
+      "2026-07-31": 2
     }
   },
   {
@@ -54,11 +55,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/erp.luxis.com.ar.ico",
     "slug": "luxis-odoo",
     "status": "down",
-    "uptime": "76.22%",
+    "uptime": "76.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.22%",
+    "uptimeYear": "76.04%",
     "time": 280,
     "timeDay": 0,
     "timeWeek": 0,
@@ -69,7 +70,7 @@
       "2025-09-18": 150,
       "2025-12-01": 195,
       "2026-04-09": 69,
-      "2026-07-31": 173,
+      "2026-07-31": 1312,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -155,18 +156,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ls.luxis.com.ar.ico",
     "slug": "luxis-nextcloud",
     "status": "down",
-    "uptime": "16.38%",
+    "uptime": "16.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.38%",
+    "uptimeYear": "16.34%",
     "time": 517,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2026-07-31": 173,
+      "2026-07-31": 1312,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
@@ -574,10 +575,10 @@
     "url": "https://www.tochi.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.tochi.com.ar.ico",
     "slug": "tochi",
-    "status": "up",
+    "status": "down",
     "uptime": "93.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.59%",
     "time": 375,
@@ -601,7 +602,8 @@
       "2025-08-05": 1440,
       "2025-08-04": 183,
       "2025-11-18": 188,
-      "2026-04-30": 93
+      "2026-04-30": 93,
+      "2026-07-31": 1
     }
   },
   {
@@ -609,9 +611,9 @@
     "url": "https://tochisaurio.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/tochisaurio.com.ar.ico",
     "slug": "tochi-saurio",
-    "status": "up",
-    "uptime": "82.92%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "82.93%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.89%",
@@ -668,7 +670,8 @@
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 574,
-      "2026-05-17": 254
+      "2026-05-17": 254,
+      "2026-07-31": 0
     }
   }
 ]
